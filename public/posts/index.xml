@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jahnavi&#39;s Space</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Jahnavi&#39;s Space</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>jahnavipatnam@gmail.com (Jahnavi Patnam)</managingEditor>
+    <webMaster>jahnavipatnam@gmail.com (Jahnavi Patnam)</webMaster>
+    <lastBuildDate>Wed, 30 Oct 2024 07:44:10 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/posts/first/</link>
+      <pubDate>Wed, 30 Oct 2024 07:44:10 +0530</pubDate><author>jahnavipatnam@gmail.com (Jahnavi Patnam)</author>
+      <guid>http://localhost:1313/posts/first/</guid>
+      <description>&lt;p&gt;As a start to this space where I&amp;rsquo;ll be sharing bits and pieces of my life, I think its important to share what makes me me outside of being a student and participating in a race. I&amp;rsquo;m a reader and I love consuming content not just from books but also movies, articles etc. I love exploring more things to do and adding them to my hobby list. I&amp;rsquo;m not good at art but I love playing with colours. I also sing and play the guitar.&#xA;You&amp;rsquo;ll find me playing the newyorktimes games / linkedin games a little too often while also playing card games once in a while as a pasttime.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
